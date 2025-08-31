@@ -12,7 +12,7 @@ All algorithms are implemented in [PyTorch](https://www.pytorch.org/).
 - **Minimal fixes only**  
   Preserved the algorithms as-is; applied only compatibility fixes (e.g., deprecated APIs, dataset loading, tokenizer changes).  
 - **Scope of changes**  
-  Updates focus on **Chapter 9 onward**, where runtime issues were reported. Earlier chapters remain unchanged.  
+  Updates for Chapter 9 are complete; other chapters are under review.
 - **Colab-ready**  
   Verified notebooks run smoothly on Google Colab without extra setup beyond installing PyTorch/Datasets.
 
