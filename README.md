@@ -14,7 +14,7 @@ All algorithms are implemented in [PyTorch](https://www.pytorch.org/).
 - **Scope of changes**  
   Updates for Chapter 9 are complete; other chapters are under review.
 - **Colab-ready**  
-  Verified notebooks run smoothly on Google Colab without extra setup beyond installing PyTorch/Datasets.
+  Verified notebooks run smoothly on Google Colab with only PyTorch/Datasets installation required.
 
 ---
 
